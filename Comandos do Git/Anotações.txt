@@ -1,0 +1,4 @@
+
+**Este repositório foi criado para cumprir desafio de projeto do Santander Bootcamp Fullstack Developer.
+
+**Esta lista de comandos é útil para todo aquele que utiliza o Git.
