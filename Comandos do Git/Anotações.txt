@@ -1,6 +1,7 @@
 
 **Este repositório foi criado para cumprir desafio de projeto do Santander Bootcamp Fullstack Developer.
 
+<<<<<<< HEAD
 **Esta lista de comandos é útil para todo aquele que utiliza o Git:
 
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
